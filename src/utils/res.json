@@ -1,0 +1,23 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 27,
+            "name": "admin dev",
+            "role": ["Admin"],
+            "is_team_member": 0
+        },
+        {
+            "id": 118,
+            "name": "Bruno Parab",
+            "role": ["Reviewer","Author"],
+            "is_team_member": 0
+        },
+        {
+            "id": 119,
+            "name": "kartikey Kumar",
+            "role": ["Admin"],
+            "is_team_member": 0
+        }
+    ]
+} 
